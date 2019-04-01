@@ -40,6 +40,11 @@ Prior to starting these labs, you must have the following operating system and s
 - [Workshop Deck (alternative theme)](./decks/cosmos-db-workshop.pptx)
 
 ---
+# Lab Files in word format zipped
+
+- [Lab files in word zipped](./zip/lab-files-word.zip)
+
+---
 
 # Notes
 
