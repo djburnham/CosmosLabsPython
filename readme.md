@@ -40,9 +40,10 @@ Prior to starting these labs, you must have the following operating system and s
 - [Workshop Deck (alternative theme)](./decks/cosmos-db-workshop.pptx)
 
 ---
-# Lab Files in word format zipped
+# Lab Files in word format zipped and Python code
 
 - [Lab files in word zipped](./zip/lab-files-word.zip)
+- [Python source code files](./src/)
 
 ---
 
