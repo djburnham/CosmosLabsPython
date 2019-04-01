@@ -18,7 +18,8 @@ Prior to starting these labs, you must have the following operating system and s
 | Visual Studio Code | [/code.visualstudio.com/download](https://go.microsoft.com/fwlink/?Linkid=852157) |
 | Python 3.6 (or greater)| [www.python.org/downloads/](https://www.python.org/downloads/) |
 
-
+---
+** Be sure to check out the original C# labs at https://cosmosdb.github.io/labs/ **
 ---
 
 # Labs
