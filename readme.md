@@ -19,7 +19,7 @@ Prior to starting these labs, you must have the following operating system and s
 | Python 3.6 (or greater)| [www.python.org/downloads/](https://www.python.org/downloads/) |
 
 ---
-** Be sure to check out the original C# labs at https://cosmosdb.github.io/labs/ **
+**Be sure to check out the original C# labs at https://cosmosdb.github.io/labs/**
 ---
 
 # Labs
