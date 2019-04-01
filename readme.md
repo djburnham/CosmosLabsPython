@@ -26,11 +26,11 @@ Prior to starting these labs, you must have the following operating system and s
 *It is recommended to complete the labs in the order specified below:*
 
 - [Pre-lab: Creating an Azure Cosmos DB account](labs/MD/01-getting_started.md)
-- [Lab 1: Creating a partitioned solution using Azure Cosmos DB](technical_deep_dive/02-creating_multi_partition_solution.md)
-- [Lab 2: Querying an Azure Cosmos DB Database using the SQL API](technical_deep_dive/03-querying_the_database_using_sql.md)
-- [Lab 3: Authoring Azure Cosmos DB Stored Procedures using JavaScript ](technical_deep_dive/04-authoring_stored_procedures.md)
-- [Lab 4: Troubleshooting and Tuning Azure Cosmos DB Requests](technical_deep_dive/05-troubleshooting_failed_requests.md)
-- [Post-lab: Cleaning Up](technical_deep_dive/06-cleaning_up.md)
+- [Lab 1: Creating a partitioned solution using Azure Cosmos DB](labs/word/Lab1-createCollectionsPopulate.docx)
+- [Lab 2: Querying an Azure Cosmos DB Database using the SQL API](labs/word/Lab2-SQL-API-Python.docx)
+- [Lab 3: Authoring Azure Cosmos DB Stored Procedures using JavaScript ](labs/word/Lab3-AuthoringCosmosDB_StoredProcedures.docx)
+- [Lab 4: Troubleshooting and Tuning Azure Cosmos DB Requests](labs/word/Lab4-TroubleshootingAndTuningCosmosDBqueries.docx)
+- [Post-lab: Cleaning Up](labs/MD/06-cleaning_up.md)
 
 ---
 
